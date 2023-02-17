@@ -10,3 +10,6 @@
 
 #### Numpy - ndarray
 : shape | reshape | indexing | slicing
+
+
+#### Pandas
