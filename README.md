@@ -8,7 +8,5 @@
 <br>
 
 
-<br>
-
-### Numpy - ndarray
+#### Numpy - ndarray
 : shape | reshape | indexing | slicing
