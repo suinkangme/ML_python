@@ -11,8 +11,12 @@
 #### Numpy - ndarray
 : shape | reshape | indexing | slicing
 
+<br>
 
 #### Pandas
 
+<br>
 
 #### Scikit-Learn
+
+<br>
