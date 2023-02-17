@@ -8,3 +8,7 @@
 
 
 : Python3 | Numpy | Pandas 
+
+<br>
+
+### Numpy - ndarray( shape | reshape | indexing )
