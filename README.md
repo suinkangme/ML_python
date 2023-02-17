@@ -2,13 +2,12 @@
 
 <br>
 
-: Learn and Practice Machine Learning on Jupyter Notebook environment
+- Learn and Practice Machine Learning on Jupyter Notebook environment
+
+<br>
+- Python3 | Numpy | Pandas 
 
 <br>
 
-
-: Python3 | Numpy | Pandas 
-
-<br>
-
-### Numpy - ndarray( shape | reshape | indexing )
+### Numpy - ndarray
+: shape | reshape | indexing | slicing
